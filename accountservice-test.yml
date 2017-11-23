@@ -1,5 +1,5 @@
 server_port: 6767
-server_name: Temporarily testing string!
+server_name: Accountservice TEST
 the_password: '{cipher}AQBtEweWnuWMDm8V+JvLL16fMkua2Yrqyu1sBCYrcOXnOrfr7YZVN2SjQZQdXZIXkJIM9E6cQA+Fr7lckUImmKU9tSMpRNWdOl6M5c8wKyD1gJe1bcVgfsKwddNvf9OCdA1tGdhlfPDNpVZ+QbnY0pza9QWJb2zsiydmbIJme9k1VvOwaV23rX8r5Cv+BHkncZ0ZixkkKLb8P0FWM3SvP84b4byK+I+6KIdhdkWm/hNdh0Yqx9MUeEMrceT3SEKRKblbTu1T96z8jxmi7hpAAE28/fRh90/RLHs15nPIdTwHKaRTbSAUiEcwZQU2xTZOQULLfWljFM3IVHjcuB6HvjNMHVfSf3I9D+0A3lRFX0/37hvEsmqEjg+mBFq/b+bSBwg='
 amqp_server_url: amqp://guest:guest@rabbitmq:5672/
 config_event_bus: springCloudBus
